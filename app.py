@@ -8,5 +8,5 @@ def hello_world():
     return 'Hello World!'
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
+    app.run(host='http://testeopenshift-myproject.127.0.0.1.nip.io', port=8080)
 
